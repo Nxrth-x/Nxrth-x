@@ -37,7 +37,7 @@ const myself: Person = {
 
 **🐱 My Github Data** 
 
-> 🏆 52 Contributions in the Year 2021
+> 🏆 57 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
