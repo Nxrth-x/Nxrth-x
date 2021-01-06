@@ -43,7 +43,7 @@ const myself: Person = {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
