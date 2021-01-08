@@ -5,7 +5,7 @@
 ### My name is Eder and I am a web developer working at **VMAX Digital**.
 
 ```TypeScript
-const myself: Person = {
+const myself: Developer = {
   name: "Eder Oliveira Lima 👨‍💻",
   age: 19,
   favoriteLangauges: [
