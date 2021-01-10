@@ -17,7 +17,7 @@ const myself: Developer = {
     "React Native",
     "Express",
     "NextJS",
-  ]
+  ],
   currentlyLearning: [
     "Go",
     "C",
