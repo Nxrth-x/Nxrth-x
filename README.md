@@ -1,8 +1,10 @@
-# Hello there! 👋
+# Bip, bop... Bip? 👨‍💻
 
-> It's me, Mari..
+<div align="center">
+  <img src="https://media2.giphy.com/media/11jQqqyF4S5MWY/giphy.gif" alt="Computer gif" />
+</div>
 
-### My name is Eder and I am a web developer working at **VMAX Digital**.
+### My name is Eder and I am a web developer working at **VMAX Digital**. 👋😺
 
 ```TypeScript
 const myself: Developer = {
