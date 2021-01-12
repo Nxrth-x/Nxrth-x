@@ -1,4 +1,4 @@
-<h1 align="center">Bip, bop... Bip? 💻</h1>
+<h1 align="center">Bip, bop... Beep? 💻</h1>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/11jQqqyF4S5MWY/giphy.gif" alt="Computer gif" />
