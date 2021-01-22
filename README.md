@@ -1,7 +1,7 @@
 <h1 align="center">Bip, bop... Beep? 💻</h1>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/11jQqqyF4S5MWY/giphy.gif" alt="Computer gif" />
+  <img src="https://digitalsynopsis.com/wp-content/uploads/2016/07/3d-isometric-animations-90s-electronic-items-kaypro.gif" alt="Computer gif" />
 </div>
 
 ### My name is Eder and I am a web developer working at **VMAX Digital**. 👋😺
