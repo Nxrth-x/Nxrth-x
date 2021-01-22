@@ -6,34 +6,6 @@
 
 ### My name is Eder and I am a web developer working at **VMAX Digital**. 👋😺
 
-```TypeScript
-const myself: Developer = {
-  name: "Eder Oliveira Lima 👨‍💻",
-  age: 19,
-  favoriteLangauges: [
-    "TypeScript 📘",
-    "Python 🐍",
-    "Go 🚶‍♂️",
-  ],
-  favoriteFrameworks: [
-    "React Native",
-    "Express",
-    "NextJS",
-  ],
-  currentlyLearning: [
-    "Go",
-    "C",
-  ],
-  favoriteProjects: [
-    "Cloneflix 🎥",
-    "Geometry.py 📐",
-    "RSA Implementation 🔐"
-  ],
-};
-
-
-```
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168936%20lines%20of%20code-blue)
 
