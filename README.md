@@ -1,10 +1,32 @@
 <h1 align="center">Bip, bop... Beep? 💻</h1>
 
-<div align="center">
-  <img src="https://digitalsynopsis.com/wp-content/uploads/2016/07/3d-isometric-animations-90s-electronic-items-kaypro.gif" alt="Computer gif" />
-</div>
+<img src="https://digitalsynopsis.com/wp-content/uploads/2016/07/3d-isometric-animations-90s-electronic-items-kaypro.gif" alt="Computer gif" align="right"/>
 
-### My name is Eder and I am a web developer working at **VMAX Digital**. 👋😺
+```Typescript
+const myself: Developer = {
+  name: "Eder Lima",
+  studying: "Computer Science",
+  age: 19,
+  country: "Brazil",
+  languages: [
+    "TypeScript",
+    "Python",
+    "Javascript",
+    "C++",
+  ],
+  learning: [
+    "Elixir",
+    "Go",
+  ],
+  frameworks: [
+    "React",
+    "React Native",
+    "Express",
+    "Flask"
+  ]
+}
+
+```
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167550%20lines%20of%20code-blue)
