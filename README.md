@@ -1,7 +1,5 @@
 <h1 align="center">Bip, bop... Beep? 💻</h1>
 
-<img src="https://digitalsynopsis.com/wp-content/uploads/2016/07/3d-isometric-animations-90s-electronic-items-kaypro.gif" alt="Computer gif" align="right"/>
-
 ```Typescript
 const myself: Developer = {
   name: "Eder Lima",
