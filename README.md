@@ -1,8 +1,10 @@
 <h1 align="center">Bip, bop... Beep? 💻</h1>
 
 <div align="center">
+  <h2>Some of the technologies I use in my day-to-day routine</h2>
+  <br />
   <img
-    src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white"
+    src="https://img.shields.io/badge/react-202020?style=for-the-badge&logo=react&logoColor=61dAFB"
     alt="React"
   />
   <img
@@ -14,13 +16,50 @@
     alt="Python"
   />
   <img
-    src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white"
+    src="https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask&logoColor=white"
     alt="Flask"
   />
   <img
     src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white"
     alt="Typescript"
   />
+  <img
+    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+    alt="Docker"
+  />
+  <img
+    src="https://img.shields.io/badge/Next-202020?style=for-the-badge&logo=next.js&logoColor=white"
+    alt="Next"
+  />
+  <img
+    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+    alt="Heroku"
+  />
+  <img
+    src="https://img.shields.io/badge/express-202020?style=for-the-badge&logo=express&logoColor=white"
+    alt="Express"
+  />
+  <img
+    src="https://img.shields.io/badge/Shell-4Eaa25?style=for-the-badge&logo=gnu-bash&logoColor=white"
+    alt="Bash"
+  />
+  <img
+    src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"
+    alt="Insomnia"
+  />
+  <img
+    src="https://img.shields.io/badge/SASS-202020?style=for-the-badge&logo=sass&logoColor=cc6699"
+    alt="SASS"
+  />
+  <img
+    src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="Postgres"
+  />
+  <img
+    src="https://img.shields.io/badge/vue_js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=fff"
+    alt="Vue"
+  >
+  <br />
 </div>
 
 ```Typescript
@@ -50,73 +89,72 @@ const myself: Developer = {
 ```
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-107509%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 625 Contributions in the Year 2021
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
+>
+> 📦 0 Bytes Used in Github's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 33 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 33 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    137 commits    ████████░░░░░░░░░░░░░░░░░   33.74% 
-🌆 Daytime    225 commits    █████████████░░░░░░░░░░░░   55.42% 
-🌃 Evening    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
+🌞 Morning    137 commits    ████████░░░░░░░░░░░░░░░░░   33.74%
+🌆 Daytime    225 commits    █████████████░░░░░░░░░░░░   55.42%
+🌃 Evening    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
 🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       96 commits     ██████░░░░░░░░░░░░░░░░░░░   23.65% 
-Tuesday      95 commits     █████░░░░░░░░░░░░░░░░░░░░   23.4% 
-Wednesday    81 commits     █████░░░░░░░░░░░░░░░░░░░░   19.95% 
-Thursday     53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
-Friday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
-Saturday     13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2% 
+Monday       96 commits     ██████░░░░░░░░░░░░░░░░░░░   23.65%
+Tuesday      95 commits     █████░░░░░░░░░░░░░░░░░░░░   23.4%
+Wednesday    81 commits     █████░░░░░░░░░░░░░░░░░░░░   19.95%
+Thursday     53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.05%
+Friday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32%
+Saturday     13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2%
 Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Python                   15 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   31.78% 
-JavaScript               15 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   31.73% 
-Vue.js                   4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
-TypeScript               2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.13% 
+💬 Programming Languages:
+Python                   15 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   31.78%
+JavaScript               15 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   31.73%
+Vue.js                   4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.46%
+TypeScript               2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.13%
 HTML                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.31%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  47 hrs 47 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
-Linux                    33 hrs 33 mins      █████████████████░░░░░░░░   70.23% 
+💻 Operating System:
+Linux                    33 hrs 33 mins      █████████████████░░░░░░░░   70.23%
 Windows                  14 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.77%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   19 repos            █████████░░░░░░░░░░░░░░░░   35.85% 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+Python                   19 repos            █████████░░░░░░░░░░░░░░░░   35.85%
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.87%
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43%
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43%
 PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.77%
 
 ```
-
-
 
 <!--END_SECTION:waka-->
