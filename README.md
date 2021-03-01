@@ -1,8 +1,6 @@
 <h1 align="center">Bip, bop... Beep? 💻</h1>
 
 <div align="center">
-  <h2>Some of the technologies I use in my day-to-day routine</h2>
-  <br />
   <img
     src="https://img.shields.io/badge/react-202020?style=for-the-badge&logo=react&logoColor=61dAFB"
     alt="React"
@@ -59,7 +57,6 @@
     src="https://img.shields.io/badge/vue_js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=fff"
     alt="Vue"
   >
-  <br />
 </div>
 
 ```Typescript
