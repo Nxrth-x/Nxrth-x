@@ -1,4 +1,4 @@
-<h1 align="center">Bip, bop... Beep? 💻</h1>
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px" alt="Hello" /></h1>
 
 <div align="center">
   <img
