@@ -1,158 +1,105 @@
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px" alt="Hello" /></h1>
-
 <div align="center">
-  <img
-    src="https://img.shields.io/badge/react-202020?style=for-the-badge&logo=react&logoColor=61dAFB"
-    alt="React"
-  />
-  <img
-    src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-    alt="Javascript"
-  />
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python"
-  />
-  <img
-    src="https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask&logoColor=white"
-    alt="Flask"
-  />
-  <img
-    src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white"
-    alt="Typescript"
-  />
-  <img
-    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-    alt="Docker"
-  />
-  <img
-    src="https://img.shields.io/badge/Next-202020?style=for-the-badge&logo=next.js&logoColor=white"
-    alt="Next"
-  />
-  <img
-    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-    alt="Heroku"
-  />
-  <img
-    src="https://img.shields.io/badge/express-202020?style=for-the-badge&logo=express&logoColor=white"
-    alt="Express"
-  />
-  <img
-    src="https://img.shields.io/badge/Shell-4Eaa25?style=for-the-badge&logo=gnu-bash&logoColor=white"
-    alt="Bash"
-  />
-  <img
-    src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"
-    alt="Insomnia"
-  />
-  <img
-    src="https://img.shields.io/badge/SASS-202020?style=for-the-badge&logo=sass&logoColor=cc6699"
-    alt="SASS"
-  />
-  <img
-    src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white"
-    alt="Postgres"
-  />
-  <img
-    src="https://img.shields.io/badge/vue_js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=fff"
-    alt="Vue"
-  >
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">Hello, my name is Eder Lima and I'm a developer at [VMAX Digital](https://vmaxdigital.com.br)</div>  
+  
+
+- 🌱 I’m currently learning DevOps and Elixir.  
+  
+
+- ❓ Ask me about anything related to React or Javascript  
+  
+
+- ⚡ Fun fact: I find jQuery pretty cool. xD  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
-```Typescript
-const myself: Developer = {
-  name: "Eder Lima",
-  studying: "Computer Science",
-  age: 19,
-  country: "Brazil",
-  languages: [
-    "TypeScript",
-    "Python",
-    "Javascript",
-    "C++",
-  ],
-  learning: [
-    "Elixir",
-    "Go",
-  ],
-  frameworks: [
-    "React",
-    "React Native",
-    "Express",
-    "Flask"
-  ]
-}
-
-```
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108082%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 681 Contributions in the Year 2021
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 35 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    156 commits    █████████░░░░░░░░░░░░░░░░   37.59% 
-🌆 Daytime    214 commits    █████████████░░░░░░░░░░░░   51.57% 
-🌃 Evening    31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
-🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   20.72% 
-Tuesday      81 commits     █████░░░░░░░░░░░░░░░░░░░░   19.52% 
-Wednesday    87 commits     █████░░░░░░░░░░░░░░░░░░░░   20.96% 
-Thursday     81 commits     █████░░░░░░░░░░░░░░░░░░░░   19.52% 
-Friday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-Saturday     13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13% 
-Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.34%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               16 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   37.32% 
-Python                   7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69% 
-TypeScript               6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
-HTML                     6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
-Markdown                 2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.22%
-
-🔥 Editors: 
-VS Code                  44 hrs 12 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    35 hrs 38 mins      ████████████████████░░░░░   80.64% 
-Windows                  8 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.36%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   19 repos            ████████░░░░░░░░░░░░░░░░░   35.19% 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
-
-```
+</td><td valign="top" width="33%">
 
 
 
-<!--END_SECTION:waka-->
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Nxrth-x" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/lima-eder" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://facebook.com/dcclxxix" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nxrth-x&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>   
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21vbcuaa7fswudhrhy22on34i&cover_image=true&theme=default" /></div>  
+
+<br/>  
